@@ -1,6 +1,6 @@
-# Mi Portfolio 👨‍💻
+# 🎮 The Dev Arena
 
-**Full-Stack Developer | Blockchain | SaaS | E-commerce**
+**Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
 Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 19 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
@@ -64,13 +64,13 @@ Plataforma White-Label escalable para gestión de citas en negocios de servicios
 
 ### 3. [BLOODLINE: SIEGE THE HUNTERS WAR](./03_bloodline_siege/) 🎮
 
-Juego estratégico PvP con estética gótica-industrial y sistema de facciones.
+**Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP con estética gótica-industrial y sistema de facciones.
 
 - **Stack:** Canvas/Phaser, JavaScript ES6+, CSS3
 - ✅ 3 facciones jugables (Vampiros, Hombres Lobo, Cazadores)
 - ✅ Diseño gótico-steampunk coherente
 - ✅ Sistema de loot y rareza visual
-- ✅ Iconografía de facción personalizada
+- ✅ Mockups de interfaz completados
 
 [Ver detalles →](./03_bloodline_siege/readme.md)
 
@@ -366,47 +366,6 @@ Juego Tetris clásico con estética Dracula tema oscuro.
 
 ---
 
-## 🚀 Git Workflow
-
-Para contribuir o actualizar este portfolio:
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/carfrei/Portfolio.git
-cd Portfolio
-
-# 2. Crear rama para cambios
-git checkout -b feature/nueva-funcionalidad
-
-# 3. Hacer cambios locales
-# Editar archivos, agregar proyectos, etc.
-
-# 4. Verificar cambios
-git status
-
-# 5. Agregar cambios
-git add .
-
-# 6. Commit con mensaje descriptivo
-git commit -m "feat: agregar nuevo proyecto - [Nombre]"
-# Ejemplos:
-# git commit -m "docs: actualizar README con screenshots"
-# git commit -m "feat: agregar sección de contacto"
-# git commit -m "fix: corregir link a proyecto"
-
-# 7. Hacer push a rama
-git push origin feature/nueva-funcionalidad
-
-# 8. Crear Pull Request en GitHub
-```
-
-**Convención de commits:**
-- `feat:` - Nueva funcionalidad o proyecto
-- `fix:` - Correcciones
-- `docs:` - Cambios en documentación
-- `style:` - Cambios de formato
-- `refactor:` - Cambios de estructura
-- `perf:` - Mejoras de rendimiento
-
----
-
+**Última actualización:** Diciembre 2025
+**Total Proyectos:** 19
+**Líneas de Código:** 100K+

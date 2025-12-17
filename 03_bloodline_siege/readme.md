@@ -1,6 +1,6 @@
 # 🎮 BLOODLINE: SIEGE THE HUNTERS WAR
 
-**Juego estratégico PvP gótico-industrial con mecánicas de facción y progresión.**
+**Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP gótico-industrial con mecánicas de facción y progresión.
 
 ## 🎯 Descripción
 
@@ -24,15 +24,15 @@ Juego de estrategia con estética gótica-industrial que combina la opulencia g�
 | **Materiales** | Hierro forjado, latón, cobre envejecido, terciopelo |
 | **Paleta Base** | #1C1C1C (fondo), #EBEBEB (texto), #B22222 (acción) |
 
-## � Demostración Visual
+## 📸 Demostración Visual - Mockups
 
 ### Pantalla Principal del Juego
 ![Juego Principal](./screenshots/main_game.png)
-*Interfaz de combate con UI steampunk, indicadores de salud y recursos de facción.*
+*Mockup: Interfaz de combate con UI steampunk, indicadores de salud y recursos de facción.*
 
 ### Ciudad / Exploración
 ![Ciudad](./screenshots/city.png)
-*Ambiente gótico-industrial donde se desarrolla la aventura, NPC y puntos de interés.*
+*Mockup: Ambiente gótico-industrial donde se desarrolla la aventura, NPC y puntos de interés.*
 
 ## �🛠️ Stack Tecnológico
 
