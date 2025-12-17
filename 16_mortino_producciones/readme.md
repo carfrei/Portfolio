@@ -1,0 +1,37 @@
+# 🎬 Mortino Producciones
+
+**Plataforma de productora audiovisual y contenidos creativos.**
+
+## 🎯 Descripción
+
+Sitio web y plataforma para productora audiovisual. Showcase de proyectos, servicios de producción y gestión de contenidos multimedia.
+
+## ✨ Características Principales
+
+- ✅ **Galería de Proyectos** - Portfolio audiovisual
+- ✅ **Showcases Multimedia** - Videos y fotos integradas
+- ✅ **Servicios** - Catálogo de servicios de producción
+- ✅ **Contacto** - Formulario de consultas
+- ✅ **Blog** - Artículos y behind-the-scenes
+- ✅ **Responsivo** - Optimizado para todos los dispositivos
+
+## 🛠️ Stack Tecnológico
+
+| Componente | Tecnología |
+|-----------|-----------|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Multimedia** | Video embedding (YouTube, Vimeo) |
+| **Galerías** | Lightbox / Gallery plugins |
+| **Hosting** | Static site o CMS |
+
+## 📊 Habilidades Demostradas
+
+- 🎬 Diseño para industria creativa
+- 🎨 Integración multimedia
+- 📸 Optimización de galerías
+- 📹 Video embedding
+- 🎯 Portfolio presentation
+
+---
+
+[Volver al Portfolio](../)
