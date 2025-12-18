@@ -2,12 +2,12 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 21 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 23 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **16 Proyectos Completados** ✅
+- **17 Proyectos Completados** ✅
 - **3 Proyectos en Desarrollo** 🚧
-- **2 Proyectos Pausados** ⏸️
+- **3 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
 - **100% Responsivos** 📱
 
@@ -23,13 +23,14 @@ Cada proyecto incluye:
 
 **Acceso rápido por categoría:**
 - **E-commerce:** [01](./01_the_nana_store/), [14](./14_imprendi_soap/)
-- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/)
+- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/), [23](./23_logistrack/)
 - **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/), [21](./21_mr_bet/)
 - **Blockchain:** [08](./08_echodao/)
 - **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/)
 - **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
 - **EdTech:** [09](./09_edtech_multiidiomas/), [10](./10_edtech_srs_engine/)
 - **Healthcare:** [20](./20_pharmacy_management_system/)
+- **Herramientas Musicales:** [22](./22_afinador_guitarra/)
 
 ---
 
@@ -345,6 +346,41 @@ Mockup funcional e interactivo de una plataforma profesional de arbitraje deport
 
 ---
 
+### 22. [Afinador de Guitarra en Línea](./22_afinador_guitarra/) 🎸
+
+Aplicación web para afinar guitarras en tiempo real usando el micrófono del dispositivo.
+
+- **Stack:** HTML5, CSS3, JavaScript ES6+, Web Audio API
+- ✅ Detección automática de notas en tiempo real
+- ✅ Afinación estándar (EADGBE) completa
+- ✅ Indicador visual de precisión con feedback
+- ✅ Modo cromático para todas las notas
+- ✅ Análisis FFT y autocorrelación
+- ✅ Compatible con todos los navegadores modernos
+- ✅ Sin instalación requerida
+
+[Ver detalles →](./22_afinador_guitarra/readme.md)
+
+---
+
+### 23. [LogisTrack - Sistema de Gestión Logística](./23_logistrack/) 📦
+
+Sistema web completo para automatización de documentación logística y gestión de envíos.
+
+- **Stack:** React.js + Vite, Node.js + Express, PostgreSQL, Cloudflare R2
+- ⏸️ **Pausado** - Proyecto en pausa por suspensión de ciclo de pagos del cliente
+- ✅ Generación automática de listas de empaque
+- ✅ Lectura por códigos QR
+- ✅ Base de datos de clientes y rutas
+- ✅ Integración con email (IMAP)
+- ✅ Dashboard gerencial con KPIs
+- ✅ Comparador de transportistas
+- ✅ Documentación técnica completa (11 tablas, 14 sprints)
+
+[Ver detalles →](./23_logistrack/readme.md)
+
+---
+
 ## 📊 Resumen de Tecnologías
 
 ### Frontend
@@ -385,16 +421,17 @@ Mockup funcional e interactivo de una plataforma profesional de arbitraje deport
 
 ## 🎯 Áreas de Especialización
 
-| Área            | Proyectos                                        | Expertise                                     |
-| --------------- | ------------------------------------------------ | --------------------------------------------- |
-| **E-commerce**  | The Nana Store, Imprendi Soap, Menu Medianoche   | Multi-pasarelas, localización, inventario     |
-| **SaaS**        | Agendador Citas, ServiceFlow, EdTech, PharmaCare | Full-stack, escalabilidad, seguridad          |
-| **Blockchain**  | EchoDAO                                          | Smart Contracts, Tokenomics, DAO              |
-| **Fintech**     | CrediConfia, PocketCheck                         | Cálculos precisos, seguridad, compliance      |
-| **Healthcare**  | PharmaCare ERP                                   | ERP systems, inventory management, compliance |
-| **Gaming**      | BLOODLINE, Tetris                                | Game loops, physics, canvas rendering         |
-| **Mobile**      | DrTarot, PocketCheck (React Native)              | iOS/Android, sincronización                   |
-| **Design & UX** | Todos                                            | Responsivo, accesibilidad, paletas coherentes |
+| Área                 | Proyectos                                                    | Expertise                                        |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| **E-commerce**       | The Nana Store, Imprendi Soap, Menu Medianoche               | Multi-pasarelas, localización, inventario        |
+| **SaaS**             | Agendador Citas, ServiceFlow, EdTech, PharmaCare, LogisTrack | Full-stack, escalabilidad, seguridad             |
+| **Blockchain**       | EchoDAO                                                      | Smart Contracts, Tokenomics, DAO                 |
+| **Fintech**          | CrediConfia, PocketCheck                                     | Cálculos precisos, seguridad, compliance         |
+| **Healthcare**       | PharmaCare ERP                                               | ERP systems, inventory management, compliance    |
+| **Gaming**           | BLOODLINE, Tetris                                            | Game loops, physics, canvas rendering            |
+| **Mobile**           | DrTarot, PocketCheck (React Native)                          | iOS/Android, sincronización                      |
+| **Audio/Multimedia** | Afinador Guitarra                                            | Web Audio API, FFT, procesamiento en tiempo real |
+| **Design & UX**      | Todos                                                        | Responsivo, accesibilidad, paletas coherentes    |
 ---
 
 ## 📞 Contacto
@@ -405,5 +442,5 @@ Mockup funcional e interactivo de una plataforma profesional de arbitraje deport
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 21
+**Total Proyectos:** 23
 **Líneas de Código:** 100K+
