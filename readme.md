@@ -5,7 +5,7 @@
 Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 23 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **17 Proyectos Completados** ✅
+- **18 Proyectos Completados** ✅
 - **3 Proyectos en Desarrollo** 🚧
 - **3 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
@@ -26,7 +26,7 @@ Cada proyecto incluye:
 - **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/), [23](./23_logistrack/)
 - **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/), [21](./21_mr_bet/)
 - **Blockchain:** [08](./08_echodao/)
-- **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/)
+- **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/), [24](./24_chrono_folio/)
 - **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
 - **EdTech:** [09](./09_edtech_multiidiomas/), [10](./10_edtech_srs_engine/)
 - **Healthcare:** [20](./20_pharmacy_management_system/)
@@ -381,6 +381,23 @@ Sistema web completo para automatización de documentación logística y gestió
 
 ---
 
+### 24. [ChronoFolio - Portafolio Retro 16-Bits](./24_chrono_folio/) 🕹️
+
+Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como RPG.
+
+- **Stack:** HTML5, CSS3, JavaScript vanilla, Canvas API, Web Audio API
+- ✅ Interfaz retro 8-bits estilo arcade clásico
+- ✅ Experiencia gamificada con sistema de batalla RPG
+- ✅ Starfield animado con Canvas
+- ✅ Audio retro 8-bits con Web Audio API
+- ✅ Sistema de diálogos interactivo
+- ✅ Estados de juego: Splash, Press Start, Battle
+- ✅ Diseño responsivo y animaciones suaves
+
+[Ver detalles →](./24_chrono_folio/readme.md)
+
+---
+
 ## 📊 Resumen de Tecnologías
 
 ### Frontend
@@ -428,7 +445,7 @@ Sistema web completo para automatización de documentación logística y gestió
 | **Blockchain**       | EchoDAO                                                      | Smart Contracts, Tokenomics, DAO                 |
 | **Fintech**          | CrediConfia, PocketCheck                                     | Cálculos precisos, seguridad, compliance         |
 | **Healthcare**       | PharmaCare ERP                                               | ERP systems, inventory management, compliance    |
-| **Gaming**           | BLOODLINE, Tetris                                            | Game loops, physics, canvas rendering            |
+| **Gaming**           | BLOODLINE, Tetris, ChronoFolio                               | Game loops, physics, canvas rendering, state management |
 | **Mobile**           | DrTarot, PocketCheck (React Native)                          | iOS/Android, sincronización                      |
 | **Audio/Multimedia** | Afinador Guitarra                                            | Web Audio API, FFT, procesamiento en tiempo real |
 | **Design & UX**      | Todos                                                        | Responsivo, accesibilidad, paletas coherentes    |
@@ -442,5 +459,5 @@ Sistema web completo para automatización de documentación logística y gestió
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 23
+**Total Proyectos:** 24
 **Líneas de Código:** 100K+

@@ -8,7 +8,7 @@
 
 ## ✨ Características Principales
 
-- ✅ **Interfaz Retro 8-Bits** - Diseño nostálgico inspirado en arcades clásicos
+- ✅ **Interfaz Retro 16-Bits** - Diseño nostálgico inspirado en arcades clásicos
 - ✅ **Experiencia Gamificada** - Portafolio presentado como videojuego RPG
 - ✅ **Sistema de Batalla** - Mecánicas de combate para explorar proyectos
 - ✅ **Starfield Animado** - Efectos visuales con Canvas API
