@@ -1,4 +1,4 @@
-# 👨‍💼 Camilo Folio
+# 👨‍💼 Puki Poke
 
 **Portfolio personal y profesional con múltiples secciones y diseño moderno.**
 
@@ -27,7 +27,7 @@ Sitio web de portfolio profesional que showcasea trabajos, servicios y citas. Di
 ## 📁 Estructura
 
 ```
-camilo_folio/
+puki_poke/
 ├── index.html              # Página principal
 ├── about.html              # Sección About
 ├── citas.html              # Sistema de citas

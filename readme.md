@@ -78,7 +78,7 @@ Plataforma White-Label escalable para gestión de citas en negocios de servicios
 
 ---
 
-### 4. [Camilo Folio](./04_camilo_folio/) 👨‍💼
+### 4. [Puki Poke](./04_puki_poke/) 👨‍💼
 
 Portfolio personal y profesional con múltiples secciones.
 
@@ -88,7 +88,7 @@ Portfolio personal y profesional con múltiples secciones.
 - ✅ Navegación intuitiva
 - ✅ SEO optimizado
 
-[Ver detalles →](./04_camilo_folio/readme.md)
+[Ver detalles →](./04_puki_poke/readme.md)
 
 ---
 
@@ -386,10 +386,10 @@ Sistema web completo para automatización de documentación logística y gestió
 Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como RPG.
 
 - **Stack:** HTML5, CSS3, JavaScript vanilla, Canvas API, Web Audio API
-- ✅ Interfaz retro 8-bits estilo arcade clásico
+- ✅ Interfaz retro 16-bits estilo arcade clásico
 - ✅ Experiencia gamificada con sistema de batalla RPG
 - ✅ Starfield animado con Canvas
-- ✅ Audio retro 8-bits con Web Audio API
+- ✅ Audio retro 16-bits con Web Audio API
 - ✅ Sistema de diálogos interactivo
 - ✅ Estados de juego: Splash, Press Start, Battle
 - ✅ Diseño responsivo y animaciones suaves
