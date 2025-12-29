@@ -1,6 +1,8 @@
 # WL Cinema Manager - Sistema de Gestión de Cines 🎬
 
-**[⬅️ Volver al Portfolio](../readme.md)**
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 Sistema completo de gestión para cines con control de inventario de dulcería y administración interactiva de asientos. Mockup funcional white-label profesional con interfaz moderna y limpia.
 
@@ -168,6 +170,6 @@ Para evolucionar este mockup a una aplicación full-stack en producción:
 
 Proyecto de demostración white-label - Freiermuth_Solutions © 2025
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-**[⬅️ Volver al Portfolio](../readme.md)**
+**[🏠 Volver al Portfolio](../../readme.md)**

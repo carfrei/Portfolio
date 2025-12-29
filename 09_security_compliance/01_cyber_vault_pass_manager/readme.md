@@ -1,6 +1,8 @@
 # 🔐 Cyber Vault Pass Manager - Administrador de Contraseñas Empresarial
 
-**[⬅️ Volver al Portfolio](../readme.md)**
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 Sistema SaaS de gestión de contraseñas empresarial con arquitectura zero-knowledge y cifrado AES-256 del lado del cliente. Incluye mockup funcional del dashboard con auditoría de fuerza de contraseñas y alertas de brechas de datos.
 

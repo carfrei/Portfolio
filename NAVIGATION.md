@@ -71,23 +71,6 @@ The_Dev_Arena/
 
 **Total:** 34 proyectos | ✅ 25+ completados | 🚧 4+ en desarrollo | ⏸️ 3+ pausados
 
----
-
-## 🔍 Búsqueda por Tecnología
-
-### Frontend
-- React: [02_whitelabel_saas](./02_whitelabel_saas), [05_edtech](./05_edtech), [08_enterprise_erp](./08_enterprise_erp)
-- Vue.js: Múltiples categorías
-- Canvas: [01_gaming](./01_gaming)
-- React Native: [03_fintech](./03_fintech)
-
-### Backend
-- Node.js/Express: Mayoría de SaaS
-- Python/Flask: [04_ecommerce](./04_ecommerce)
-- Rust (Blockchain): [07_blockchain](./07_blockchain)
-
-### Blockchain
-- Solana: [07_blockchain](./07_blockchain)
 
 ---
 
@@ -100,6 +83,11 @@ The_Dev_Arena/
 5. **Vuelve al inicio** con los botones de navegación
 
 ---
+
+**[⬅️ Volver al Portfolio](../readme.md)**
+
+---
+
 
 ## 📞 Contacto
 

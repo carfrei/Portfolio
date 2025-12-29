@@ -2,6 +2,10 @@
 
 **Generador White-Label de presupuestos profesionales para servicios.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Herramienta para crear y gestionar cotizaciones y presupuestos profesionales. Disponible como solución White-Label lista para revender a agencias y freelancers que necesitan generar documentos profesionales rápidamente.
@@ -46,6 +50,6 @@ Herramienta para crear y gestionar cotizaciones y presupuestos profesionales. Di
 - 🔧 White-Label architecture
 - 📊 Cálculos complejos en frontend
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**

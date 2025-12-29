@@ -2,6 +2,10 @@
 
 **Portafolio interactivo con temática retro 16-bits estilo arcade. Una experiencia única que combina un portafolio profesional con un videojuego estilo RPG.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 **ChronoFolio** es una plataforma de presentación personal donde Carlos Freiermuth muestra sus proyectos y habilidades a través de una experiencia gamificada. En lugar de un portafolio tradicional, los visitantes exploran el contenido como si estuvieran jugando un videojuego retro de los 80s.
@@ -82,6 +86,6 @@
 | Navegar | Flechas de dirección |
 | Confirmar | Enter o click |
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**

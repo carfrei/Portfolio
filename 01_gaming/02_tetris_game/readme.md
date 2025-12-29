@@ -2,6 +2,10 @@
 
 **Juego Tetris clásico con estética Dracula tema oscuro.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Reimaginación moderna del clásico Tetris con paleta de colores oficial Dracula y fondo "Rojo Aterciopelado". Desarrollado en JavaScript vanilla con HTML5 Canvas para máximo rendimiento.
@@ -55,6 +59,6 @@ Reimaginación moderna del clásico Tetris con paleta de colores oficial Dracula
 - 🎯 Game loops
 - 🔄 State management
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**

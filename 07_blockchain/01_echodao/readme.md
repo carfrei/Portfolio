@@ -2,6 +2,10 @@
 
 **Plataforma de streaming musical con blockchain que paga 85% de regalías a artistas.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 CreatorShare es una plataforma de streaming musical descentralizada impulsada por Solana blockchain. Misión: devolver el 85% de las regalías directamente a artistas, eliminando intermediarios. Implementado como DAO (Decentralized Autonomous Organization).

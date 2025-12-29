@@ -2,6 +2,10 @@
 
 **Portfolio personal y profesional con múltiples secciones y diseño moderno.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Sitio web de portfolio profesional que showcasea trabajos, servicios y citas. Diseñado como plataforma personal de presentación con navegación intuitiva y diseño responsivo.

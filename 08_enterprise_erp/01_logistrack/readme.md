@@ -2,6 +2,10 @@
 
 **Sistema web completo para automatización de documentación logística y gestión de envíos.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 > [!IMPORTANT]
 > Este proyecto se encuentra **temporalmente pausado** debido a la suspensión del ciclo de pagos por parte del cliente. La documentación completa, diseño técnico y mockup funcional están completados y disponibles para revisión.
 

@@ -2,6 +2,10 @@
 
 **Aplicación móvil de lecturas de Tarot.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Aplicación móvil desarrollada para lecturas y consultas de Tarot. Interfaz intuitiva que permite a los usuarios realizar tiradas y obtener interpretaciones.

@@ -2,6 +2,10 @@
 
 **Plataforma White-Label escalable para automatizar la gestión de citas en negocios de servicios.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Módulo base, escalable y listo para reventa, diseñado para digitalizar y automatizar la gestión de citas en negocios de servicios como Barberías, Consultorios, o Salones. Desarrollado como Producto Mínimo Viable (MVP) para ser vendido como código fuente (White-Label).
@@ -43,7 +47,7 @@ Módulo base, escalable y listo para reventa, diseñado para digitalizar y autom
 *Primera etapa: elección del servicio a reservar.*
 
 ### Reserva de Citas - Paso 2: Seleccionar Fecha
-![Selector Fecha](./screenshots/selector%20fecha.png)
+![Selector Fecha](./screenshots/selector fecha.png)
 *Segunda etapa: selección de fecha disponible con calendario interactivo.*
 
 ### Listado de Citas
@@ -64,6 +68,6 @@ Módulo base, escalable y listo para reventa, diseñado para digitalizar y autom
 - 🔐 API RESTful segura
 - 📱 Interfaz responsiva
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**

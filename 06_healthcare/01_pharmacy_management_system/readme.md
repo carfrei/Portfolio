@@ -2,6 +2,10 @@
 
 **Mockup funcional e interactivo de un sistema ERP completo para farmacias.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 🔗 **[Ver Demo en Vivo](https://pharmacy-management-system-gvrc.onrender.com)**
 
 ## 🎯 Descripción

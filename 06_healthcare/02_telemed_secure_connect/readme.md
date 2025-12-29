@@ -1,6 +1,8 @@
 # 🏥 Telemed Secure Connect - Plataforma de Telemedicina Segura
 
-**[⬅️ Volver al Portfolio](../readme.md)**
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 Plataforma de telemedicina con videollamadas cifradas, cumplimiento de privacidad de datos médicos y logs de acceso auditables. Incluye mockups funcionales para las interfaces de doctor y paciente.
 

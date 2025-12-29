@@ -2,6 +2,10 @@
 
 Una plataforma de e-commerce especializada en venta y recarga de divisas in-game para videojuegos móviles, con soporte para 14+ países.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ---
 
 ## 🎯 Descripción del Proyecto

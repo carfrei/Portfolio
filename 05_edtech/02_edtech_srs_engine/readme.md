@@ -2,6 +2,10 @@
 
 **Motor de aprendizaje espaciado (Spaced Repetition System) para plataformas educativas.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 SRS Engine es un microservicio que implementa el algoritmo de Repetición Espaciada (Spaced Repetition System). Diseñado para optimizar el aprendizaje en plataformas EdTech, garantizando retención óptima de conocimiento.

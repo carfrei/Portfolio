@@ -2,6 +2,10 @@
 
 **Mockup funcional e interactivo de una plataforma profesional de arbitraje deportivo (surebets).**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 🔗 **[Ver Demo en Vivo](https://mr-bet.onrender.com)**
 
 ## 🎯 Descripción

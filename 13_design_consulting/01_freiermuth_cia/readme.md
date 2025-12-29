@@ -2,6 +2,10 @@
 
 **Sitio corporativo con auditoría completa de DevOps y recomendaciones de seguridad.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Sitio web corporativo con sistema multiidioma (ES/EN/DE) e implementación de prácticas DevOps. Incluye auditoría completa de seguridad, CI/CD, testing y documentación detallada de mejoras.

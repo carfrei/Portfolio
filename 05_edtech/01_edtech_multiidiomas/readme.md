@@ -2,6 +2,10 @@
 
 **Plataforma educativa con soporte para múltiples idiomas.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Plataforma EdTech diseñada para ser accesible en múltiples idiomas. Sistema completo de educación en línea con recursos didácticos y gestión de cursos.

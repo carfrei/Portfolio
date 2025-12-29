@@ -2,6 +2,10 @@
 
 **Plataforma fintech para solicitar créditos digitales con aprobación en 15 minutos.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 CrediConfia es una plataforma fintech que permite a usuarios colombianos solicitar créditos rápidos en línea. Sistema completo con simulador en tiempo real, cálculos precisos y aprobación automática.

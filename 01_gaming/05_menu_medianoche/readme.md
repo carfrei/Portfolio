@@ -3,6 +3,10 @@
 
 **Proyecto Personal en Desarrollo** 🚧 - Simulador de gestión de restaurante nocturno - Juego de estrategia económica y toma de decisiones.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Menu de Media Noche es un videojuego de simulación donde asumes el rol de gerente de un restaurante nocturno. Gestiona empleados, inventario, recetas, horarios y toma decisiones bajo presión. Cada noche presenta nuevos desafíos: clientes exigentes, emergencias culinarias, eventos especiales y oportunidades de negocio.
@@ -92,8 +96,8 @@ Menu de Media Noche es un videojuego de simulación donde asumes el rol de geren
 
 **MVP Jugable** - Core loops funcionales, eventos básicos, progresión inicial.
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 ```

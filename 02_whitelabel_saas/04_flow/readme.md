@@ -3,6 +3,10 @@
 
 **Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber - Plataforma de transporte y mobilidad urbana con matching en tiempo real.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Flow conecta pasajeros y conductores en una plataforma escalable de transporte. Sistema completo de solicitud de viajes, matching automático, tracking en vivo, gestión de pagos, calificaciones bidireccionales e historial de transacciones.
@@ -87,8 +91,8 @@ Flow conecta pasajeros y conductores en una plataforma escalable de transporte. 
 
 **Fase de Diseño** - Arquitectura y mockups completados. Aún sin screens.
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../../Portfolio/)
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 ````

@@ -2,6 +2,10 @@
 
 **Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP gótico-industrial con mecánicas de facción y progresión.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Juego de estrategia con estética gótica-industrial que combina la opulencia gótica con tecnología steampunk. Sistema de facción (Vampiros, Hombres Lobo, Cazadores) con mecánicas de combate, crafteo y progresión.
@@ -51,6 +55,6 @@ Juego de estrategia con estética gótica-industrial que combina la opulencia g�
 - 📐 UI/UX gaming
 - 🌍 Worldbuilding
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**

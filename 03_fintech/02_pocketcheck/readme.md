@@ -2,6 +2,10 @@
 
 **Proyecto Personal en Fase Alpha** 🚧 - Plataforma completa full-stack de gestión financiera personal con web y app móvil.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 PocketCheck es una aplicación de gestión financiera personal con interfaces web y móvil nativa. Sistema completo de tracking de gastos, gestión de presupuestos y análisis visual de patrones de gasto.

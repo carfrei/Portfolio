@@ -3,6 +3,10 @@
 
 **Proyecto Personal en Fase Alpha** 🚧 - Juego de carreras retro con estilo 16bits y música eurobeat.
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Rhythm Drift es un juego de carreras arcade estilo retro con gráficos 16bits y música eurobeat de alta energía. Inspirado en clásicos como Out Run y Rad Racer. El jugador compite en circuitos psicodélicos con una banda sonora synth-pop que intensifica según la velocidad y desempeño.
@@ -85,8 +89,8 @@ Rhythm Drift es un juego de carreras arcade estilo retro con gráficos 16bits y 
 
 **Fase Alpha** 🚧 - Mecánicas de conducción y colisiones funcionales. Aún en desarrollo: más circuitos, autos, música.
 
----
+**[⬅️ Volver a la Sección](../readme.md)**
 
-[Volver al Portfolio](../)
+**[🏠 Volver al Portfolio](../../readme.md)**
 
 ```

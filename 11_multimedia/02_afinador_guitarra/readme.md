@@ -2,6 +2,10 @@
 
 **Aplicación web para afinar guitarras en tiempo real usando el micrófono del dispositivo.**
 
+**[⬅️ Volver a la Sección](../readme.md)**
+
+**[🏠 Volver al Portfolio](../../readme.md)**
+
 ## 🎯 Descripción
 
 Afinador de guitarra profesional basado en web que utiliza la Web Audio API para detectar y analizar frecuencias en tiempo real. La aplicación permite afinar guitarras acústicas y eléctricas directamente desde el navegador sin necesidad de instalar software adicional.
