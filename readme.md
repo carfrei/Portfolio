@@ -2,500 +2,115 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 27 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 34+ proyectos organizados por categoría que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **20 Proyectos Completados** ✅
-- **4 Proyectos en Desarrollo** 🚧
-- **3 Proyectos Pausados** ⏸️
+- **25+ Proyectos Completados** ✅
+- **4+ Proyectos en Desarrollo** 🚧
+- **3+ Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
 - **100% Responsivos** 📱
 
 ---
 
-## 🗂️ Cómo Explorar los Proyectos
+## 📂 Categorías de Proyectos
+
+Selecciona la categoría que te interesa para explorar los proyectos en detalle:
+
+| Categoría | Descripción | Proyectos |
+|-----------|-------------|-----------|
+| 🎮 **[Gaming](./01_gaming/)** | Juegos interactivos, simuladores y experiencias gamificadas (incluye videojuegos de servicios) | 5 |
+| 🔄 **[Whitelabel & SaaS](./02_whitelabel_saas/)** | Soluciones escalables listas para reventa y plataformas SaaS | 5 |
+| 💰 **[Fintech](./03_fintech/)** | Plataformas financieras, créditos y arbitraje deportivo | 3 |
+| 🛍️ **[E-commerce](./04_ecommerce/)** | Tiendas online y plataformas de venta | 2 |
+| 📚 **[EdTech](./05_edtech/)** | Plataformas educativas y sistemas de aprendizaje | 3 |
+| 🏥 **[Healthcare](./06_healthcare/)** | Sistemas médicos, farmacias y telemedicina | 2 |
+| ⛓️ **[Blockchain & Web3](./07_blockchain/)** | Smart Contracts, DAO, NFTs y soluciones descentralizadas | 2 |
+| 🏢 **[Enterprise & ERP](./08_enterprise_erp/)** | Sistemas empresariales y de gestión integral | 1 |
+| 🔐 **[Security & Compliance](./09_security_compliance/)** | Soluciones de seguridad, auditoría y cumplimiento normativo | 2 |
+| 🤖 **[IoT & Industry 4.0](./10_iot_industry/)** | Monitoreo inteligente, logística y automatización | 2 |
+| 🎵 **[Multimedia](./11_multimedia/)** | Herramientas de audio, video y contenido creativo | 2 |
+| 🖥️ **[Infrastructure](./12_infrastructure/)** | Infraestructura de streaming, servidor y DevOps | 1 |
+| 🎨 **[Design & Consulting](./13_design_consulting/)** | Proyectos de diseño arquitectónico y asesoría empresarial | 2 |
+| 👨‍💼 **[Portfolio Personal](./14_portfolio_personal/)** | Proyectos personales y experimentales | 1 |
+| 📱 **[Apps & Mobile](./15_apps/)** | Aplicaciones móviles especializadas | 1 |
+
+---
+
+## 📚 Cómo Explorar los Proyectos
 
 Cada proyecto incluye:
 - ✅ **README Detallado** - Descripción, stack, arquitectura y desafíos técnicos
-- 📸 **Screenshots** - Visualización de la interfaz y funcionalidades (si disponible)
-- 🔗 **Links de Navegación** - Volver al portfolio desde cada proyecto
+- 📸 **Screenshots** - Visualización de la interfaz y funcionalidades
+- 🔗 **Links de Navegación** - Enlaces de regreso al portfolio desde cada proyecto
 - 📊 **Habilidades Demostradas** - Tecnologías y conceptos aplicados
 
-**Acceso rápido por categoría:**
-- **E-commerce:** [16](./16_ecommerce_multipais/), [17](./17_imprendi_soap/)
-- **SaaS:** [06](./06_agendador_de_citas/), [14](./14_flow/), [15](./15_service_flow/), [20](./20_pocketcheck/), [22](./22_pharmacy_management_system/), [25](./25_logistrack/)
-- **Fintech:** [10](./10_crediconfia/), [20](./20_pocketcheck/), [23](./23_mr_bet/)
-- **Blockchain:** [11](./11_echodao/)
-- **Gaming:** [05](./05_freiermuth_cia/), [07](./07_bloodline_siege/), [04](./04_tetris_game/), [21](./21_rhythm_drift/), [01](./01_chrono_folio/)
-- **Mobile:** [03](./03_drtarot/), [20](./20_pocketcheck/)
-- **EdTech:** [12](./12_edtech_multiidiomas/), [13](./13_edtech_srs_engine/)
-- **Healthcare:** [22](./22_pharmacy_management_system/)
-- **Herramientas Musicales:** [24](./24_afinador_guitarra/)
+**Para comenzar, selecciona una categoría en la tabla anterior o navega directamente a las carpetas.**
+
+📍 **[Ver Guía de Navegación →](./NAVIGATION.md)** - Consulta esta guía para entender la estructura completa y navegar más fácilmente.
 
 ---
 
-## 📚 Proyectos
-
-### 1. [ChronoFolio - Portafolio Retro 16-Bits](./01_chrono_folio/) 🕹️
-
-Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como RPG.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla, Canvas API, Web Audio API
-- ✅ Interfaz retro 16-bits estilo arcade clásico
-- ✅ Experiencia gamificada con sistema de batalla RPG
-- ✅ Starfield animado con Canvas
-- ✅ Audio retro 16-bits con Web Audio API
-- ✅ Sistema de diálogos interactivo
-- ✅ Estados de juego: Splash, Press Start, Battle
-- ✅ Diseño responsivo y animaciones suaves
-
-[Ver detalles →](./01_chrono_folio/readme.md)
-
----
-
-### 2. [WL Cinema Manager](./02_wl_cinema_manager/) 🎬
-
-Plataforma de gestión de cines con control de salas, películas y reservas.
-
-- **Stack:** Node.js, Express, React, PostgreSQL
-- ✅ Gestión completa de películas
-- ✅ Control de salas y horarios
-- ✅ Sistema de reservas integrado
-- ✅ Dashboard de ocupación
-
-[Ver detalles →](./02_wl_cinema_manager/readme.md)
-
----
-
-### 3. [DrTarot](./03_drtarot/) 🔮
-
-Aplicación móvil Android de lecturas de Tarot.
-
-- **Stack:** Java/Kotlin, Android SDK, Gradle
-- ✅ Tiradas con interpretaciones
-- ✅ Interfaz intuitiva
-- ✅ Historial de lecturas
-- ✅ Base de datos de cartas completa
-
-[Ver detalles →](./03_drtarot/readme.md)
-
----
-
-### 4. [Tetris Game - Dracula Theme](./04_tetris_game/) 🧛‍♂️
-
-Juego Tetris clásico con estética Dracula tema oscuro.
-
-- **Stack:** HTML5 Canvas, CSS3 Flexbox, JavaScript ES6+
-- ✅ Mecánicas clásicas + Hard Drop
-- ✅ Paleta oficial Dracula
-- ✅ Sistema de puntuación progresivo
-- ✅ Física de colisiones precisa
-
-[Ver detalles →](./04_tetris_game/readme.md)
-
----
-
-### 5. [Freiermuth Cia LTDA - Auditoría DevOps](./05_freiermuth_cia/) 🏢
-
-Sitio corporativo con auditoría completa DevOps y recomendaciones de seguridad.
-
-- **Stack:** HTML5, CSS3, JavaScript, Node.js/Express, i18n
-- ✅ Multi-idioma (ES/EN/DE)
-- ✅ Auditoría DevOps 11+ documentos
-- ✅ Security hardening implementado
-- ✅ ROI 20.6x en mejoras
-
-[Ver detalles →](./05_freiermuth_cia/readme.md)
-
----
-
-### 6. [Agendador de Citas MVP](./06_agendador_de_citas/) 📅
-
-Plataforma White-Label escalable para gestión de citas en negocios de servicios (Barberías, Consultorios, Salones).
-
-- **Stack:** Node.js + Express, Vue.js, PostgreSQL/MongoDB
-- ✅ Gestión de servicios con duración dinámica
-- ✅ Lógica inteligente de disponibilidad horaria
-- ✅ Interfaz de reserva 3 pasos
-- ✅ Horarios configurables por día
-
-[Ver detalles →](./06_agendador_de_citas/readme.md)
-
----
-
-### 7. [BLOODLINE: SIEGE THE HUNTERS WAR](./07_bloodline_siege/) 🎮
-
-**Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP con estética gótica-industrial y sistema de facciones.
-
-- **Stack:** Canvas/Phaser, JavaScript ES6+, CSS3
-- ✅ 3 facciones jugables (Vampiros, Hombres Lobo, Cazadores)
-- ✅ Diseño gótico-steampunk coherente
-- ✅ Sistema de loot y rareza visual
-- ✅ Mockups de interfaz completados
-
-[Ver detalles →](./07_bloodline_siege/readme.md)
-
----
-
-### 8. [Puki Poke](./08_puki_poke/) 👨‍💼
-
-Portfolio personal y profesional con múltiples secciones.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- ✅ Página principal, About, Citas, Portfolio Completo
-- ✅ Diseño responsivo mobile-first
-- ✅ Navegación intuitiva
-- ✅ SEO optimizado
-
-[Ver detalles →](./08_puki_poke/readme.md)
-
----
-
-### 9. [Creador de Cotizaciones y Presupuestos](./09_creador_cotizaciones/) 📋
-
-Generador White-Label de presupuestos profesionales para servicios.
-
-- **Stack:** HTML5, CSS3, JavaScript, html2pdf
-- ✅ Interfaz intuitiva de creación
-- ✅ Cálculos automáticos (totales, impuestos, descuentos)
-- ✅ Exportación a PDF profesional
-- ✅ White-Label ready
-
-[Ver detalles →](./09_creador_cotizaciones/readme.md)
-
----
-
-### 10. [CrediConfia - Créditos Rápidos Online](./10_crediconfia/) 💳
-
-Plataforma fintech para créditos digitales con aprobación en 15 minutos.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- ✅ Simulador en tiempo real
-- ✅ Montos: $150K - $1.2M COP, plazos 7/15/30 días
-- ✅ Desglose completo (interés, comisión, seguro, IVA)
-- ✅ Descuentos promocionales y Dark/Light mode
-
-[Ver detalles →](./10_crediconfia/readme.md)
-
----
-
-### 11. [EchoDAO - Streaming Descentralizado](./11_echodao/) 🎵
-
-Plataforma de streaming musical en blockchain Solana con 85% de regalías a artistas.
-
-- **Stack:** Solana, Rust + Anchor, React, React Native
-- ✅ Token CREA con tokenomics definida
-- ✅ Smart Contracts para división de regalías
-- ✅ DAO governance
-- ✅ Eliminación de intermediarios
-
-[Ver detalles →](./11_echodao/readme.md)
-
----
-
-### 12. [EdTech Multi-Idiomas](./12_edtech_multiidiomas/) 🌍
-
-Plataforma educativa con soporte para múltiples idiomas.
-
-- **Stack:** React/Vue.js, Node.js, MongoDB, i18n
-- ✅ Multi-idioma (ES/EN/DE)
-- ✅ Gestión de cursos
-- ✅ Contenido didáctico estructurado
-- ✅ Sistema de progreso
-
-[Ver detalles →](./12_edtech_multiidiomas/readme.md)
-
----
-
-### 13. [EdTech SRS Engine](./13_edtech_srs_engine/) 📚
-
-Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
-
-- **Stack:** Node.js + Express, PostgreSQL
-- ✅ Algoritmo SRS optimizado
-- ✅ API REST de microservicio
-- ✅ Cálculos de intervalo automático
-- ✅ Tracking de progreso
-
-[Ver detalles →](./13_edtech_srs_engine/readme.md)
-
----
-
-### 14. [Flow](./14_flow/) 🚗
-
-**Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber - Plataforma de transporte y mobilidad urbana en tiempo real.
-
-- **Stack:** React/Vue.js, Node.js, WebSockets, Maps API, PostgreSQL + Redis
-- ✅ Arquitectura de matching en tiempo real
-- ✅ Sistema de geolocalización (Google Maps API)
-- ✅ Algoritmo de asignación inteligente
-- ✅ Tracking en vivo con WebSockets
-- ✅ Integración multi-pasarelas de pago
-
-[Ver detalles →](./14_flow/readme.md)
-
----
-
-### 15. [ServiceFlow](./15_service_flow/) 🍔
-
-**Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber Eats - Plataforma SaaS de delivery de comida y servicios.
-
-- **Stack:** React + Vite, Express.js, PostgreSQL, JWT + bcrypt, WebSockets
-- ✅ 20+ endpoints RESTful
-- ✅ CRUD completo (Restaurantes, Menús, Pedidos, Conductores)
-- ✅ Matching de conductores en tiempo real
-- ✅ Dashboard de Analytics y KPIs
-- ✅ Dark/Light mode integrado
-
-[Ver detalles →](./15_service_flow/readme.md)
-
----
-
-### 16. [ECommerce MultiPaís](./16_ecommerce_multipais/) 🛍️
-
-Plataforma e-commerce completa para recarga de divisas in-game con soporte multi-región y múltiples pasarelas de pago.
-
-- **Stack:** Python/Flask, MongoDB, JavaScript, Stripe/PayPal/Binance
-- ✅ 14+ países con localización de precios
-- ✅ 3 pasarelas de pago integradas
-- ✅ Panel administrativo completo
-- ✅ JWT + bcrypt, notificaciones email, Cloudflare R2
-
-[Ver detalles →](./16_ecommerce_multipais/readme.md)
-
----
-
-### 17. [Imprendi Soap - LUXE ARTISAN](./17_imprendi_soap/) 🧼
-
-Tienda online premium de jabones artesanales de lujo.
-
-- **Stack:** HTML5, CSS3, JavaScript, WhatsApp API
-- ✅ 5 productos premium
-- ✅ Diseño Black & White elegante
-- ✅ Integración WhatsApp
-- ✅ URLs limpias con .htaccess
-
-[Ver detalles →](./17_imprendi_soap/readme.md)
-
----
-
-### 18. [Menu de Media Noche](./18_menu_medianoche/) 🌙🎮
-
-**Videojuego de Servicios** - Simulador de gestión de restaurante nocturno (Proyecto Personal en Desarrollo).
-
-- **Stack:** React/Vue.js, Node.js, MongoDB, Canvas/Three.js
-- 🚧 **En Desarrollo** - Core loops, economía y eventos implementados
-- ✅ Gestión de empleados y turnos
-- ✅ Sistema de órdenes dinámico
-- ✅ Control de inventario y recetas
-- ✅ Economía de juego (ingresos, gastos, utilidades)
-
-[Ver detalles →](./18_menu_medianoche/readme.md)
-
----
-
-### 19. [Mortino Producciones](./19_mortino_producciones/) 🎬
-
-Plataforma de productora audiovisual y contenidos creativos.
-
-- **Stack:** HTML5, CSS3, JavaScript
-- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
-- ✅ Galería de proyectos multimedia
-- ✅ Showcases de videos/fotos
-- ✅ Catálogo de servicios
-- ✅ Blog integrado
-
-[Ver detalles →](./19_mortino_producciones/readme.md)
-
----
-
-### 20. [PocketCheck - Personal Finance Management](./20_pocketcheck/) 💰
-
-**Proyecto Personal en Fase Alpha** 🚧 - Plataforma full-stack de gestión financiera personal con web y app móvil.
-
-- **Stack:** Next.js 16 + React 19, TypeScript, React Native, MongoDB, NextAuth.js
-- 🚧 **Alpha** - Core features implementadas, testing en progreso
-- ✅ Múltiples cuentas (wallets, checking, savings)
-- ✅ Tracking de gastos con categorización
-- ✅ Gestión de presupuestos
-- ✅ Gráficos interactivos (Recharts)
-- ✅ Web y mobile sincronizados
-- ✅ Google OAuth 2.0
-
-[Ver detalles →](./20_pocketcheck/readme.md)
-
----
-
-### 21. [Rhythm Drift](./21_rhythm_drift/) 🏎️
-
-**Proyecto Personal en Fase Alpha** 🚧 - Juego de Carreras 16bits - Carrera arcade retro con música eurobeat dinámica.
-
-- **Stack:** Canvas/Phaser.js, Web Audio API, React/Vue.js, Vite
-- ✅ Mecánicas de conducción y colisiones funcionales
-- ✅ Gráficos pixel art 16bits
-- ✅ Música eurobeat sincronizada con acción
-- ✅ Circuitos psicodélicos
-- ✅ Sistema de drifts y multiplicadores
-
-[Ver detalles →](./21_rhythm_drift/readme.md)
-
----
-
-### 22. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./22_pharmacy_management_system/) 💊
-
-Mockup funcional e interactivo de un sistema ERP completo para farmacias white-label.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- 🔗 **[Demo en Vivo](https://pharmacy-management-system-gvrc.onrender.com)**
-- ✅ Dashboard gerencial con KPIs
-- ✅ Gestión de inventario con alertas de stock
-- ✅ Punto de Venta (POS) multi-caja
-- ✅ Base de datos de clientes
-- ✅ Módulo de compras a proveedores
-- ✅ Reportes gerenciales completos
-- ✅ Configuración de usuarios y roles
-- ✅ Validación de cédulas/RUC Ecuador
-
-[Ver detalles →](./22_pharmacy_management_system/readme.md)
-
----
-
-### 23. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./23_mr_bet/) 💰
-
-Mockup funcional e interactivo de una plataforma profesional de arbitraje deportivo (surebets).
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- 🔗 **[Demo en Vivo](https://mr-bet.onrender.com)**
-- 🎨 **Mockup demostrativo** basado en trabajos anteriores
-- ✅ Feed de surebets en tiempo real
-- ✅ Calculadora de arbitraje integrada
-- ✅ Filtros avanzados (deporte, casas de apuestas, beneficio)
-- ✅ Dashboard estilo Bloomberg/Binance
-- ✅ Tema oscuro premium con glassmorphism
-
-[Ver detalles →](./23_mr_bet/readme.md)
-
----
-
-### 24. [Afinador de Guitarra en Línea](./24_afinador_guitarra/) 🎸
-
-Aplicación web para afinar guitarras en tiempo real usando el micrófono del dispositivo.
-
-- **Stack:** HTML5, CSS3, JavaScript ES6+, Web Audio API
-- ✅ Detección automática de notas en tiempo real
-- ✅ Afinación estándar (EADGBE) completa
-- ✅ Indicador visual de precisión con feedback
-- ✅ Modo cromático para todas las notas
-- ✅ Análisis FFT y autocorrelación
-- ✅ Compatible con todos los navegadores modernos
-- ✅ Sin instalación requerida
-
-[Ver detalles →](./24_afinador_guitarra/readme.md)
-
----
-
-### 25. [LogisTrack - Sistema de Gestión Logística](./25_logistrack/) 📦
-
-Sistema web completo para automatización de documentación logística y gestión de envíos.
-
-- **Stack:** React.js + Vite, Node.js + Express, PostgreSQL, Cloudflare R2
-- ⏸️ **Pausado** - Proyecto en pausa por suspensión de ciclo de pagos del cliente
-- ✅ Generación automática de listas de empaque
-- ✅ Lectura por códigos QR
-- ✅ Base de datos de clientes y rutas
-- ✅ Integración con email (IMAP)
-- ✅ Dashboard gerencial con KPIs
-- ✅ Comparador de transportistas
-- ✅ Documentación técnica completa (11 tablas, 14 sprints)
-
-[Ver detalles →](./25_logistrack/readme.md)
-
----
-
-### 26. [Concept Design - AK Constructiva](./26_concept_design_architecture_ak_constructiva/) 🏗️
-
-Diseño conceptual y mockup para AK Constructiva, firma boutique especializada en remodelación y construcción de hogares de alta gama en Ecuador.
-
-- **Stack:** React, TypeScript, Tailwind CSS
-- ✅ Sección Hero con imagen de fondo y llamada a acción
-- ✅ Slider interactivo antes/después
-- ✅ Grid de servicios con efectos hover
-- ✅ Galería de portafolio en layout masonry
-- ✅ Formulario de contacto con badge de seguridad
-- ✅ Diseño responsive, mobile-first
-
-[Ver detalles →](./26_concept_design_architecture_ak_constructiva/readme.md)
-
----
-
-### 27. [Nexus SRT High-Performance IPTV Engine](./27_nexus_srt_high_performance_iptv_engine/) 📺
-
-Infraestructura privada de streaming IPTV de baja latencia y alta disponibilidad, optimizada para servidores de alto rendimiento con protocolo SRT.
-
-- **Stack:** Docker, Docker Compose, SRT Tools, FFmpeg, Nginx, PostgreSQL
-- ✅ Protocolo SRT para transmisión segura y confiable
-- ✅ Transcodificación en RAM ultra-rápida
-- ✅ Multi-protocolo: SRT, RTMP, HLS, DASH
-- ✅ ABR (Adaptive Bitrate) automático
-- ✅ Sistema de revendedores con comisiones multinivel
-- ✅ DRM y seguridad avanzada
-- ✅ Alta disponibilidad con redundancia ISP
-
-[Ver detalles →](./27_nexus_srt_high_performance_iptv_engine/readme.md)
-
----
-
-## 📊 Resumen de Tecnologías
+## 📊 Resumen de Tecnologías Utilizadas
 
 ### Frontend
 - **Frameworks:** React, Vue.js, Next.js, React Native
-- **Lenguajes:** JavaScript, TypeScript
-- **Estilos:** CSS3, Tailwind CSS, Variables CSS
-- **Visualización:** D3.js, Recharts, Canvas, Three.js
+- **Lenguajes:** JavaScript, TypeScript, Java, Kotlin
+- **Estilos:** CSS3, Tailwind CSS, Variables CSS, Glassmorphism
+- **Visualización:** D3.js, Recharts, Canvas, Three.js, Phaser
 
 ### Backend
 - **Runtime:** Node.js
-- **Frameworks:** Express.js
-- **Otros:** Python/Flask, Rust (Blockchain)
+- **Frameworks:** Express.js, Flask
+- **Lenguajes:** Python, Rust (Blockchain)
+- **APIs:** REST, WebSockets, GraphQL
 
 ### Bases de Datos
 - **SQL:** PostgreSQL
 - **NoSQL:** MongoDB
+- **Cache:** Redis
 
-### Blockchain
+### Blockchain & Web3
 - **Red:** Solana
-- **Lenguaje:** Rust + Anchor
-- **Concepto:** Smart Contracts, DAO, Tokenomics
+- **Lenguaje:** Rust + Anchor Framework
+- **Conceptos:** Smart Contracts, DAO, Tokenomics, NFTs
+- **Seguridad:** Cryptografía, Firma Digital, Escrow
 
-### Móvil
-- **Android:** Java, Kotlin, Gradle
+### Aplicaciones Móviles
+- **Android:** Java, Kotlin, Gradle SDK
 - **Cross-platform:** React Native, Expo
 
 ### Cloud & DevOps
 - **Hosting:** Render, Heroku, Vercel, AWS
 - **Almacenamiento:** Cloudflare R2
-- **CI/CD:** GitHub Actions (implied)
-- **Email:** Gmail API
+- **Streaming:** SRT Protocol, FFmpeg, Nginx
+- **Containerización:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions
 
-### E-commerce & Pagos
-- **Pasarelas:** Stripe, PayPal, Binance
-- **Integraciones:** WhatsApp API
+### Integraciones Externas
+- **Pagos:** Stripe, PayPal, Binance
+- **Comunicación:** WhatsApp API, Gmail API
+- **Mapas:** Google Maps API
+- **Autenticación:** Google OAuth 2.0, NextAuth.js
+- **Audio:** Web Audio API, FFT Analysis
 
 ---
 
-## 🎯 Áreas de Especialización
+## 🎯 Competencias por Área
 
-| Área                 | Proyectos                                                    | Expertise                                        |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| **E-commerce**       | ECommerce MultiPaís, Imprendi Soap, Menu Medianoche          | Multi-pasarelas, localización, inventario        |
-| **SaaS**             | Agendador Citas, Flow, ServiceFlow, EdTech, PharmaCare, LogisTrack | Full-stack, escalabilidad, seguridad             |
-| **Blockchain**       | EchoDAO                                                      | Smart Contracts, Tokenomics, DAO                 |
-| **Fintech**          | CrediConfia, PocketCheck                                     | Cálculos precisos, seguridad, compliance         |
-| **Healthcare**       | PharmaCare ERP                                               | ERP systems, inventory management, compliance    |
-| **Gaming**           | ChronoFolio, Bloodline, Tetris, Rhythm Drift                 | Game loops, physics, canvas rendering, state management |
-| **Mobile**           | DrTarot, PocketCheck (React Native)                          | iOS/Android, sincronización                      |
-| **Audio/Multimedia** | Afinador Guitarra                                            | Web Audio API, FFT, procesamiento en tiempo real |
-| **Design & UX**      | Todos                                                        | Responsivo, accesibilidad, paletas coherentes    |
+| Área                 | Especialidad                                               |
+| -------------------- | ---------------------------------------------------------- |
+| **E-commerce**       | Multi-pasarelas, localización multi-país, inventario       |
+| **SaaS**             | Full-stack, escalabilidad, seguridad empresarial            |
+| **Fintech**          | Cálculos precisos, compliance, auditoría, arbitraje         |
+| **Blockchain**       | Smart Contracts, Tokenomics, DAO, Escrow                   |
+| **Healthcare**       | ERP, gestión de inventario, cumplimiento HIPAA/GDPR        |
+| **Security**         | Zero-knowledge, cifrado AES-256, blockchain audit          |
+| **IoT/Industry 4.0** | Sensores IoT, mantenimiento predictivo, automatización      |
+| **EdTech**           | Algoritmos SRS, proctoring IA, plataformas multiidiomas    |
+| **Gaming**           | Game loops, física, canvas rendering, state management     |
+| **Multimedia**       | Web Audio API, FFT, procesamiento real-time                |
+| **Design & UX**      | Responsive, accesibilidad, paletas coherentes, UX premium  |
 
 ---
 
@@ -506,6 +121,14 @@ Infraestructura privada de streaming IPTV de baja latencia y alta disponibilidad
 
 ---
 
+## 📖 Guías Útiles
+
+- 🗺️ [Guía de Navegación](./NAVIGATION.md) - Cómo explorar el portfolio
+- 📝 [Cómo Agregar Proyectos](./HOW_TO_ADD_PROJECTS.md) - Template y estándares
+
+---
+
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 27
+**Total Proyectos:** 34+
 **Líneas de Código:** 100K+
+**Estructura:** Organizada en 15 categorías temáticas
