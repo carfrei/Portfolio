@@ -5,7 +5,7 @@
 Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 25 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **18 Proyectos Completados** ✅
+- **19 Proyectos Completados** ✅
 - **4 Proyectos en Desarrollo** 🚧
 - **3 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
@@ -23,14 +23,14 @@ Cada proyecto incluye:
 
 **Acceso rápido por categoría:**
 - **E-commerce:** [16](./16_ecommerce_multipais/), [17](./17_imprendi_soap/)
-- **SaaS:** [06](./06_agendador_de_citas/), [14](./14_flow/), [15](./15_service_flow/), [19](./19_pocketcheck/), [21](./21_pharmacy_management_system/), [24](./24_logistrack/)
-- **Fintech:** [10](./10_crediconfia/), [19](./19_pocketcheck/), [22](./22_mr_bet/)
+- **SaaS:** [06](./06_agendador_de_citas/), [14](./14_flow/), [15](./15_service_flow/), [20](./20_pocketcheck/), [22](./22_pharmacy_management_system/), [25](./25_logistrack/)
+- **Fintech:** [10](./10_crediconfia/), [20](./20_pocketcheck/), [23](./23_mr_bet/)
 - **Blockchain:** [11](./11_echodao/)
-- **Gaming:** [05](./05_freiermuth_cia/), [07](./07_bloodline_siege/), [04](./04_tetris_game/), [20](./20_rhythm_drift/), [01](./01_chrono_folio/)
-- **Mobile:** [03](./03_drtarot/), [19](./19_pocketcheck/)
+- **Gaming:** [05](./05_freiermuth_cia/), [07](./07_bloodline_siege/), [04](./04_tetris_game/), [21](./21_rhythm_drift/), [01](./01_chrono_folio/)
+- **Mobile:** [03](./03_drtarot/), [20](./20_pocketcheck/)
 - **EdTech:** [12](./12_edtech_multiidiomas/), [13](./13_edtech_srs_engine/)
-- **Healthcare:** [21](./21_pharmacy_management_system/)
-- **Herramientas Musicales:** [23](./23_afinador_guitarra/)
+- **Healthcare:** [22](./22_pharmacy_management_system/)
+- **Herramientas Musicales:** [24](./24_afinador_guitarra/)
 
 ---
 
@@ -294,7 +294,22 @@ Tienda online premium de jabones artesanales de lujo.
 
 ---
 
-### 19. [PocketCheck - Personal Finance Management](./19_pocketcheck/) 💰
+### 19. [Mortino Producciones](./19_mortino_producciones/) 🎬
+
+Plataforma de productora audiovisual y contenidos creativos.
+
+- **Stack:** HTML5, CSS3, JavaScript
+- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
+- ✅ Galería de proyectos multimedia
+- ✅ Showcases de videos/fotos
+- ✅ Catálogo de servicios
+- ✅ Blog integrado
+
+[Ver detalles →](./19_mortino_producciones/readme.md)
+
+---
+
+### 20. [PocketCheck - Personal Finance Management](./20_pocketcheck/) 💰
 
 **Proyecto Personal en Fase Alpha** 🚧 - Plataforma full-stack de gestión financiera personal con web y app móvil.
 
@@ -307,11 +322,11 @@ Tienda online premium de jabones artesanales de lujo.
 - ✅ Web y mobile sincronizados
 - ✅ Google OAuth 2.0
 
-[Ver detalles →](./19_pocketcheck/readme.md)
+[Ver detalles →](./20_pocketcheck/readme.md)
 
 ---
 
-### 20. [Rhythm Drift](./20_rhythm_drift/) 🏎️
+### 21. [Rhythm Drift](./21_rhythm_drift/) 🏎️
 
 **Proyecto Personal en Fase Alpha** 🚧 - Juego de Carreras 16bits - Carrera arcade retro con música eurobeat dinámica.
 
@@ -322,11 +337,11 @@ Tienda online premium de jabones artesanales de lujo.
 - ✅ Circuitos psicodélicos
 - ✅ Sistema de drifts y multiplicadores
 
-[Ver detalles →](./20_rhythm_drift/readme.md)
+[Ver detalles →](./21_rhythm_drift/readme.md)
 
 ---
 
-### 21. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./21_pharmacy_management_system/) 💊
+### 22. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./22_pharmacy_management_system/) 💊
 
 Mockup funcional e interactivo de un sistema ERP completo para farmacias white-label.
 
@@ -341,11 +356,11 @@ Mockup funcional e interactivo de un sistema ERP completo para farmacias white-l
 - ✅ Configuración de usuarios y roles
 - ✅ Validación de cédulas/RUC Ecuador
 
-[Ver detalles →](./21_pharmacy_management_system/readme.md)
+[Ver detalles →](./22_pharmacy_management_system/readme.md)
 
 ---
 
-### 22. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./22_mr_bet/) 💰
+### 23. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./23_mr_bet/) 💰
 
 Mockup funcional e interactivo de una plataforma profesional de arbitraje deportivo (surebets).
 
@@ -358,11 +373,11 @@ Mockup funcional e interactivo de una plataforma profesional de arbitraje deport
 - ✅ Dashboard estilo Bloomberg/Binance
 - ✅ Tema oscuro premium con glassmorphism
 
-[Ver detalles →](./22_mr_bet/readme.md)
+[Ver detalles →](./23_mr_bet/readme.md)
 
 ---
 
-### 23. [Afinador de Guitarra en Línea](./23_afinador_guitarra/) 🎸
+### 24. [Afinador de Guitarra en Línea](./24_afinador_guitarra/) 🎸
 
 Aplicación web para afinar guitarras en tiempo real usando el micrófono del dispositivo.
 
@@ -375,11 +390,11 @@ Aplicación web para afinar guitarras en tiempo real usando el micrófono del di
 - ✅ Compatible con todos los navegadores modernos
 - ✅ Sin instalación requerida
 
-[Ver detalles →](./23_afinador_guitarra/readme.md)
+[Ver detalles →](./24_afinador_guitarra/readme.md)
 
 ---
 
-### 24. [LogisTrack - Sistema de Gestión Logística](./24_logistrack/) 📦
+### 25. [LogisTrack - Sistema de Gestión Logística](./25_logistrack/) 📦
 
 Sistema web completo para automatización de documentación logística y gestión de envíos.
 
@@ -393,22 +408,23 @@ Sistema web completo para automatización de documentación logística y gestió
 - ✅ Comparador de transportistas
 - ✅ Documentación técnica completa (11 tablas, 14 sprints)
 
-[Ver detalles →](./24_logistrack/readme.md)
+[Ver detalles →](./25_logistrack/readme.md)
 
 ---
 
-### 25. [Mortino Producciones](./25_mortino_producciones/) 🎬
+### 26. [Concept Design - AK Constructiva](./26_concept_design_architecture_ak_constructiva/) 🏗️
 
-Plataforma de productora audiovisual y contenidos creativos.
+Diseño conceptual y mockup para AK Constructiva, firma boutique especializada en remodelación y construcción de hogares de alta gama en Ecuador.
 
-- **Stack:** HTML5, CSS3, JavaScript
-- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
-- ✅ Galería de proyectos multimedia
-- ✅ Showcases de videos/fotos
-- ✅ Catálogo de servicios
-- ✅ Blog integrado
+- **Stack:** React, TypeScript, Tailwind CSS
+- ✅ Sección Hero con imagen de fondo y llamada a acción
+- ✅ Slider interactivo antes/después
+- ✅ Grid de servicios con efectos hover
+- ✅ Galería de portafolio en layout masonry
+- ✅ Formulario de contacto con badge de seguridad
+- ✅ Diseño responsive, mobile-first
 
-[Ver detalles →](./25_mortino_producciones/readme.md)
+[Ver detalles →](./26_concept_design_architecture_ak_constructiva/readme.md)
 
 ---
 
@@ -474,5 +490,5 @@ Plataforma de productora audiovisual y contenidos creativos.
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 25
+**Total Proyectos:** 26
 **Líneas de Código:** 100K+
