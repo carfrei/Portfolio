@@ -2,10 +2,10 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 25 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 27 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
-- **19 Proyectos Completados** ✅
+- **20 Proyectos Completados** ✅
 - **4 Proyectos en Desarrollo** 🚧
 - **3 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
@@ -428,6 +428,23 @@ Diseño conceptual y mockup para AK Constructiva, firma boutique especializada e
 
 ---
 
+### 27. [Nexus SRT High-Performance IPTV Engine](./27_nexus_srt_high_performance_iptv_engine/) 📺
+
+Infraestructura privada de streaming IPTV de baja latencia y alta disponibilidad, optimizada para servidores de alto rendimiento con protocolo SRT.
+
+- **Stack:** Docker, Docker Compose, SRT Tools, FFmpeg, Nginx, PostgreSQL
+- ✅ Protocolo SRT para transmisión segura y confiable
+- ✅ Transcodificación en RAM ultra-rápida
+- ✅ Multi-protocolo: SRT, RTMP, HLS, DASH
+- ✅ ABR (Adaptive Bitrate) automático
+- ✅ Sistema de revendedores con comisiones multinivel
+- ✅ DRM y seguridad avanzada
+- ✅ Alta disponibilidad con redundancia ISP
+
+[Ver detalles →](./27_nexus_srt_high_performance_iptv_engine/readme.md)
+
+---
+
 ## 📊 Resumen de Tecnologías
 
 ### Frontend
@@ -490,5 +507,5 @@ Diseño conceptual y mockup para AK Constructiva, firma boutique especializada e
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 26
+**Total Proyectos:** 27
 **Líneas de Código:** 100K+
