@@ -1,4 +1,4 @@
-# The Nana Store 🛍️
+# Ecommerce_multipais 🛍️
 
 Una plataforma de e-commerce especializada en venta y recarga de divisas in-game para videojuegos móviles, con soporte para 14+ países.
 
@@ -62,10 +62,6 @@ Sistema de logs persistente para rastrear errores en producción y auditoria de 
 ---
 
 ## 📸 Demostración Visual
-
-### Splash Screen
-![Splash](./screenshots/splash.png)
-*Pantalla inicial de bienvenida con branding de The Nana Store.*
 
 ### Selector de País
 ![Selector País](./screenshots/selector_pais.png)
@@ -135,7 +131,6 @@ Sistema de logs persistente para rastrear errores en producción y auditoria de 
 
 ## 🔗 Demo & Repositorio
 
-- **Sitio Live:** https://thenanastore.com
 - **Portafolio GitHub:** https://github.com/carfrei/Portfolio
 
 ---

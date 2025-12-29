@@ -2,18 +2,18 @@
 
 **Administrador de Empresas | Administrador Financiero | Full-Stack Developer | QA Engineer**
 
-Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 23 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
+Bienvenido a mi portfolio de desarrollo full-stack. Aquí encontrarás 25 proyectos que demuestran mi experiencia en arquitectura escalable, e-commerce, SaaS, blockchain, juegos y soluciones empresariales.
 
 📊 **Estadísticas:**
 - **18 Proyectos Completados** ✅
-- **3 Proyectos en Desarrollo** 🚧
+- **4 Proyectos en Desarrollo** 🚧
 - **3 Proyectos Pausados** ⏸️
 - **100K+ Líneas de Código**
 - **100% Responsivos** 📱
 
 ---
 
-## � Cómo Explorar los Proyectos
+## 🗂️ Cómo Explorar los Proyectos
 
 Cada proyecto incluye:
 - ✅ **README Detallado** - Descripción, stack, arquitectura y desafíos técnicos
@@ -22,105 +22,52 @@ Cada proyecto incluye:
 - 📊 **Habilidades Demostradas** - Tecnologías y conceptos aplicados
 
 **Acceso rápido por categoría:**
-- **E-commerce:** [01](./01_the_nana_store/), [14](./14_imprendi_soap/)
-- **SaaS:** [02](./02_agendador_de_citas/), [11](./11_flow/), [12](./12_service_flow/), [17](./17_pocketcheck/), [20](./20_pharmacy_management_system/), [23](./23_logistrack/)
-- **Fintech:** [06](./06_crediconfia/), [17](./17_pocketcheck/), [21](./21_mr_bet/)
-- **Blockchain:** [08](./08_echodao/)
-- **Gaming:** [03](./03_bloodline_siege/), [15](./15_menu_medianoche/), [18](./18_rhythm_drift/), [19](./19_tetris_game/), [24](./24_chrono_folio/)
-- **Mobile:** [07](./07_drtarot/), [17](./17_pocketcheck/)
-- **EdTech:** [09](./09_edtech_multiidiomas/), [10](./10_edtech_srs_engine/)
-- **Healthcare:** [20](./20_pharmacy_management_system/)
-- **Herramientas Musicales:** [22](./22_afinador_guitarra/)
+- **E-commerce:** [16](./16_ecommerce_multipais/), [17](./17_imprendi_soap/)
+- **SaaS:** [06](./06_agendador_de_citas/), [14](./14_flow/), [15](./15_service_flow/), [19](./19_pocketcheck/), [21](./21_pharmacy_management_system/), [24](./24_logistrack/)
+- **Fintech:** [10](./10_crediconfia/), [19](./19_pocketcheck/), [22](./22_mr_bet/)
+- **Blockchain:** [11](./11_echodao/)
+- **Gaming:** [05](./05_freiermuth_cia/), [07](./07_bloodline_siege/), [04](./04_tetris_game/), [20](./20_rhythm_drift/), [01](./01_chrono_folio/)
+- **Mobile:** [03](./03_drtarot/), [19](./19_pocketcheck/)
+- **EdTech:** [12](./12_edtech_multiidiomas/), [13](./13_edtech_srs_engine/)
+- **Healthcare:** [21](./21_pharmacy_management_system/)
+- **Herramientas Musicales:** [23](./23_afinador_guitarra/)
 
 ---
 
-## �📚 Proyectos
+## 📚 Proyectos
 
-### 1. [The Nana Store](./01_the_nana_store/) 🛍️
+### 1. [ChronoFolio - Portafolio Retro 16-Bits](./01_chrono_folio/) 🕹️
 
-Plataforma e-commerce completa para recarga de divisas in-game con soporte multi-región y múltiples pasarelas de pago.
+Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como RPG.
 
-- **Stack:** Python/Flask, MongoDB, JavaScript, Stripe/PayPal/Binance
-- ✅ 14+ países con localización de precios
-- ✅ 3 pasarelas de pago integradas
-- ✅ Panel administrativo completo
-- ✅ JWT + bcrypt, notificaciones email, Cloudflare R2
+- **Stack:** HTML5, CSS3, JavaScript vanilla, Canvas API, Web Audio API
+- ✅ Interfaz retro 16-bits estilo arcade clásico
+- ✅ Experiencia gamificada con sistema de batalla RPG
+- ✅ Starfield animado con Canvas
+- ✅ Audio retro 16-bits con Web Audio API
+- ✅ Sistema de diálogos interactivo
+- ✅ Estados de juego: Splash, Press Start, Battle
+- ✅ Diseño responsivo y animaciones suaves
 
-[Ver detalles →](./01_the_nana_store/readme.md)
-
----
-
-### 2. [Agendador de Citas MVP](./02_agendador_de_citas/) 📅
-
-Plataforma White-Label escalable para gestión de citas en negocios de servicios (Barberías, Consultorios, Salones).
-
-- **Stack:** Node.js + Express, Vue.js, PostgreSQL/MongoDB
-- ✅ Gestión de servicios con duración dinámica
-- ✅ Lógica inteligente de disponibilidad horaria
-- ✅ Interfaz de reserva 3 pasos
-- ✅ Horarios configurables por día
-
-[Ver detalles →](./02_agendador_de_citas/readme.md)
+[Ver detalles →](./01_chrono_folio/readme.md)
 
 ---
 
-### 3. [BLOODLINE: SIEGE THE HUNTERS WAR](./03_bloodline_siege/) 🎮
+### 2. [WL Cinema Manager](./02_wl_cinema_manager/) 🎬
 
-**Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP con estética gótica-industrial y sistema de facciones.
+Plataforma de gestión de cines con control de salas, películas y reservas.
 
-- **Stack:** Canvas/Phaser, JavaScript ES6+, CSS3
-- ✅ 3 facciones jugables (Vampiros, Hombres Lobo, Cazadores)
-- ✅ Diseño gótico-steampunk coherente
-- ✅ Sistema de loot y rareza visual
-- ✅ Mockups de interfaz completados
+- **Stack:** Node.js, Express, React, PostgreSQL
+- ✅ Gestión completa de películas
+- ✅ Control de salas y horarios
+- ✅ Sistema de reservas integrado
+- ✅ Dashboard de ocupación
 
-[Ver detalles →](./03_bloodline_siege/readme.md)
-
----
-
-### 4. [Puki Poke](./04_puki_poke/) 👨‍💼
-
-Portfolio personal y profesional con múltiples secciones.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- ✅ Página principal, About, Citas, Portfolio Completo
-- ✅ Diseño responsivo mobile-first
-- ✅ Navegación intuitiva
-- ✅ SEO optimizado
-
-[Ver detalles →](./04_puki_poke/readme.md)
+[Ver detalles →](./02_wl_cinema_manager/readme.md)
 
 ---
 
-### 5. [Creador de Cotizaciones y Presupuestos](./05_creador_cotizaciones/) 📋
-
-Generador White-Label de presupuestos profesionales para servicios.
-
-- **Stack:** HTML5, CSS3, JavaScript, html2pdf
-- ✅ Interfaz intuitiva de creación
-- ✅ Cálculos automáticos (totales, impuestos, descuentos)
-- ✅ Exportación a PDF profesional
-- ✅ White-Label ready
-
-[Ver detalles →](./05_creador_cotizaciones/readme.md)
-
----
-
-### 6. [CrediConfia - Créditos Rápidos Online](./06_crediconfia/) 💳
-
-Plataforma fintech para créditos digitales con aprobación en 15 minutos.
-
-- **Stack:** HTML5, CSS3, JavaScript vanilla
-- ✅ Simulador en tiempo real
-- ✅ Montos: $150K - $1.2M COP, plazos 7/15/30 días
-- ✅ Desglose completo (interés, comisión, seguro, IVA)
-- ✅ Descuentos promocionales y Dark/Light mode
-
-[Ver detalles →](./06_crediconfia/readme.md)
-
----
-
-### 7. [DrTarot](./07_drtarot/) 🔮
+### 3. [DrTarot](./03_drtarot/) 🔮
 
 Aplicación móvil Android de lecturas de Tarot.
 
@@ -130,11 +77,109 @@ Aplicación móvil Android de lecturas de Tarot.
 - ✅ Historial de lecturas
 - ✅ Base de datos de cartas completa
 
-[Ver detalles →](./07_drtarot/readme.md)
+[Ver detalles →](./03_drtarot/readme.md)
 
 ---
 
-### 8. [EchoDAO - Streaming Descentralizado](./08_echodao/) 🎵
+### 4. [Tetris Game - Dracula Theme](./04_tetris_game/) 🧛‍♂️
+
+Juego Tetris clásico con estética Dracula tema oscuro.
+
+- **Stack:** HTML5 Canvas, CSS3 Flexbox, JavaScript ES6+
+- ✅ Mecánicas clásicas + Hard Drop
+- ✅ Paleta oficial Dracula
+- ✅ Sistema de puntuación progresivo
+- ✅ Física de colisiones precisa
+
+[Ver detalles →](./04_tetris_game/readme.md)
+
+---
+
+### 5. [Freiermuth Cia LTDA - Auditoría DevOps](./05_freiermuth_cia/) 🏢
+
+Sitio corporativo con auditoría completa DevOps y recomendaciones de seguridad.
+
+- **Stack:** HTML5, CSS3, JavaScript, Node.js/Express, i18n
+- ✅ Multi-idioma (ES/EN/DE)
+- ✅ Auditoría DevOps 11+ documentos
+- ✅ Security hardening implementado
+- ✅ ROI 20.6x en mejoras
+
+[Ver detalles →](./05_freiermuth_cia/readme.md)
+
+---
+
+### 6. [Agendador de Citas MVP](./06_agendador_de_citas/) 📅
+
+Plataforma White-Label escalable para gestión de citas en negocios de servicios (Barberías, Consultorios, Salones).
+
+- **Stack:** Node.js + Express, Vue.js, PostgreSQL/MongoDB
+- ✅ Gestión de servicios con duración dinámica
+- ✅ Lógica inteligente de disponibilidad horaria
+- ✅ Interfaz de reserva 3 pasos
+- ✅ Horarios configurables por día
+
+[Ver detalles →](./06_agendador_de_citas/readme.md)
+
+---
+
+### 7. [BLOODLINE: SIEGE THE HUNTERS WAR](./07_bloodline_siege/) 🎮
+
+**Proyecto Personal en Fase Alpha** 🚧 - Juego estratégico PvP con estética gótica-industrial y sistema de facciones.
+
+- **Stack:** Canvas/Phaser, JavaScript ES6+, CSS3
+- ✅ 3 facciones jugables (Vampiros, Hombres Lobo, Cazadores)
+- ✅ Diseño gótico-steampunk coherente
+- ✅ Sistema de loot y rareza visual
+- ✅ Mockups de interfaz completados
+
+[Ver detalles →](./07_bloodline_siege/readme.md)
+
+---
+
+### 8. [Puki Poke](./08_puki_poke/) 👨‍💼
+
+Portfolio personal y profesional con múltiples secciones.
+
+- **Stack:** HTML5, CSS3, JavaScript vanilla
+- ✅ Página principal, About, Citas, Portfolio Completo
+- ✅ Diseño responsivo mobile-first
+- ✅ Navegación intuitiva
+- ✅ SEO optimizado
+
+[Ver detalles →](./08_puki_poke/readme.md)
+
+---
+
+### 9. [Creador de Cotizaciones y Presupuestos](./09_creador_cotizaciones/) 📋
+
+Generador White-Label de presupuestos profesionales para servicios.
+
+- **Stack:** HTML5, CSS3, JavaScript, html2pdf
+- ✅ Interfaz intuitiva de creación
+- ✅ Cálculos automáticos (totales, impuestos, descuentos)
+- ✅ Exportación a PDF profesional
+- ✅ White-Label ready
+
+[Ver detalles →](./09_creador_cotizaciones/readme.md)
+
+---
+
+### 10. [CrediConfia - Créditos Rápidos Online](./10_crediconfia/) 💳
+
+Plataforma fintech para créditos digitales con aprobación en 15 minutos.
+
+- **Stack:** HTML5, CSS3, JavaScript vanilla
+- ✅ Simulador en tiempo real
+- ✅ Montos: $150K - $1.2M COP, plazos 7/15/30 días
+- ✅ Desglose completo (interés, comisión, seguro, IVA)
+- ✅ Descuentos promocionales y Dark/Light mode
+
+[Ver detalles →](./10_crediconfia/readme.md)
+
+---
+
+### 11. [EchoDAO - Streaming Descentralizado](./11_echodao/) 🎵
 
 Plataforma de streaming musical en blockchain Solana con 85% de regalías a artistas.
 
@@ -144,11 +189,11 @@ Plataforma de streaming musical en blockchain Solana con 85% de regalías a arti
 - ✅ DAO governance
 - ✅ Eliminación de intermediarios
 
-[Ver detalles →](./08_echodao/readme.md)
+[Ver detalles →](./11_echodao/readme.md)
 
 ---
 
-### 9. [EdTech Multi-Idiomas](./09_edtech_multiidiomas/) 🌍
+### 12. [EdTech Multi-Idiomas](./12_edtech_multiidiomas/) 🌍
 
 Plataforma educativa con soporte para múltiples idiomas.
 
@@ -158,11 +203,11 @@ Plataforma educativa con soporte para múltiples idiomas.
 - ✅ Contenido didáctico estructurado
 - ✅ Sistema de progreso
 
-[Ver detalles →](./09_edtech_multiidiomas/readme.md)
+[Ver detalles →](./12_edtech_multiidiomas/readme.md)
 
 ---
 
-### 10. [EdTech SRS Engine](./10_edtech_srs_engine/) 📚
+### 13. [EdTech SRS Engine](./13_edtech_srs_engine/) 📚
 
 Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
 
@@ -172,11 +217,11 @@ Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
 - ✅ Cálculos de intervalo automático
 - ✅ Tracking de progreso
 
-[Ver detalles →](./10_edtech_srs_engine/readme.md)
+[Ver detalles →](./13_edtech_srs_engine/readme.md)
 
 ---
 
-### 11. [Flow](./11_flow/) 🚗
+### 14. [Flow](./14_flow/) 🚗
 
 **Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber - Plataforma de transporte y mobilidad urbana en tiempo real.
 
@@ -187,11 +232,11 @@ Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
 - ✅ Tracking en vivo con WebSockets
 - ✅ Integración multi-pasarelas de pago
 
-[Ver detalles →](./11_flow/readme.md)
+[Ver detalles →](./14_flow/readme.md)
 
 ---
 
-### 12. [ServiceFlow](./12_service_flow/) 🍔
+### 15. [ServiceFlow](./15_service_flow/) 🍔
 
 **Proyecto Personal en Fase Alpha** 🚧 - Competencia de Uber Eats - Plataforma SaaS de delivery de comida y servicios.
 
@@ -202,25 +247,25 @@ Microservicio de Repetición Espaciada (SRS) para optimizar aprendizaje.
 - ✅ Dashboard de Analytics y KPIs
 - ✅ Dark/Light mode integrado
 
-[Ver detalles →](./12_service_flow/readme.md)
+[Ver detalles →](./15_service_flow/readme.md)
 
 ---
 
-### 13. [Freiermuth Cia LTDA - Auditoría DevOps](./13_freiermuth_cia/) 🏢
+### 16. [ECommerce MultiPaís](./16_ecommerce_multipais/) 🛍️
 
-Sitio corporativo con auditoría completa DevOps y recomendaciones de seguridad.
+Plataforma e-commerce completa para recarga de divisas in-game con soporte multi-región y múltiples pasarelas de pago.
 
-- **Stack:** HTML5, CSS3, JavaScript, Node.js/Express, i18n
-- ✅ Multi-idioma (ES/EN/DE)
-- ✅ Auditoría DevOps 11+ documentos
-- ✅ Security hardening implementado
-- ✅ ROI 20.6x en mejoras
+- **Stack:** Python/Flask, MongoDB, JavaScript, Stripe/PayPal/Binance
+- ✅ 14+ países con localización de precios
+- ✅ 3 pasarelas de pago integradas
+- ✅ Panel administrativo completo
+- ✅ JWT + bcrypt, notificaciones email, Cloudflare R2
 
-[Ver detalles →](./13_freiermuth_cia/readme.md)
+[Ver detalles →](./16_ecommerce_multipais/readme.md)
 
 ---
 
-### 14. [Imprendi Soap - LUXE ARTISAN](./14_imprendi_soap/) 🧼
+### 17. [Imprendi Soap - LUXE ARTISAN](./17_imprendi_soap/) 🧼
 
 Tienda online premium de jabones artesanales de lujo.
 
@@ -230,11 +275,11 @@ Tienda online premium de jabones artesanales de lujo.
 - ✅ Integración WhatsApp
 - ✅ URLs limpias con .htaccess
 
-[Ver detalles →](./14_imprendi_soap/readme.md)
+[Ver detalles →](./17_imprendi_soap/readme.md)
 
 ---
 
-### 15. [Menu de Media Noche](./15_menu_medianoche/) 🌙🎮
+### 18. [Menu de Media Noche](./18_menu_medianoche/) 🌙🎮
 
 **Videojuego de Servicios** - Simulador de gestión de restaurante nocturno (Proyecto Personal en Desarrollo).
 
@@ -245,26 +290,11 @@ Tienda online premium de jabones artesanales de lujo.
 - ✅ Control de inventario y recetas
 - ✅ Economía de juego (ingresos, gastos, utilidades)
 
-[Ver detalles →](./15_menu_medianoche/readme.md)
+[Ver detalles →](./18_menu_medianoche/readme.md)
 
 ---
 
-### 16. [Mortino Producciones](./16_mortino_producciones/) 🎬
-
-Plataforma de productora audiovisual y contenidos creativos.
-
-- **Stack:** HTML5, CSS3, JavaScript
-- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
-- ✅ Galería de proyectos multimedia
-- ✅ Showcases de videos/fotos
-- ✅ Catálogo de servicios
-- ✅ Blog integrado
-
-[Ver detalles →](./16_mortino_producciones/readme.md)
-
----
-
-### 17. [PocketCheck - Personal Finance Management](./17_pocketcheck/) 💰
+### 19. [PocketCheck - Personal Finance Management](./19_pocketcheck/) 💰
 
 **Proyecto Personal en Fase Alpha** 🚧 - Plataforma full-stack de gestión financiera personal con web y app móvil.
 
@@ -277,11 +307,11 @@ Plataforma de productora audiovisual y contenidos creativos.
 - ✅ Web y mobile sincronizados
 - ✅ Google OAuth 2.0
 
-[Ver detalles →](./17_pocketcheck/readme.md)
+[Ver detalles →](./19_pocketcheck/readme.md)
 
 ---
 
-### 18. [Rhythm Drift](./18_rhythm_drift/) �️
+### 20. [Rhythm Drift](./20_rhythm_drift/) 🏎️
 
 **Proyecto Personal en Fase Alpha** 🚧 - Juego de Carreras 16bits - Carrera arcade retro con música eurobeat dinámica.
 
@@ -292,25 +322,11 @@ Plataforma de productora audiovisual y contenidos creativos.
 - ✅ Circuitos psicodélicos
 - ✅ Sistema de drifts y multiplicadores
 
-[Ver detalles →](./18_rhythm_drift/readme.md)
+[Ver detalles →](./20_rhythm_drift/readme.md)
 
 ---
 
-### 19. [Dracula Tetris](./19_tetris_game/) 🧛‍♂️
-
-Juego Tetris clásico con estética Dracula tema oscuro.
-
-- **Stack:** HTML5 Canvas, CSS3 Flexbox, JavaScript ES6+
-- ✅ Mecánicas clásicas + Hard Drop
-- ✅ Paleta oficial Dracula
-- ✅ Sistema de puntuación progresivo
-- ✅ Física de colisiones precisa
-
-[Ver detalles →](./19_tetris_game/readme.md)
-
----
-
-### 20. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./20_pharmacy_management_system/) 💊
+### 21. [PharmaCare ERP - Sistema de Gestión Farmacéutica](./21_pharmacy_management_system/) 💊
 
 Mockup funcional e interactivo de un sistema ERP completo para farmacias white-label.
 
@@ -325,11 +341,11 @@ Mockup funcional e interactivo de un sistema ERP completo para farmacias white-l
 - ✅ Configuración de usuarios y roles
 - ✅ Validación de cédulas/RUC Ecuador
 
-[Ver detalles →](./20_pharmacy_management_system/readme.md)
+[Ver detalles →](./21_pharmacy_management_system/readme.md)
 
 ---
 
-### 21. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./21_mr_bet/) 💰
+### 22. [Mr Bet - Arbitraje Deportivo en Tiempo Real](./22_mr_bet/) 💰
 
 Mockup funcional e interactivo de una plataforma profesional de arbitraje deportivo (surebets).
 
@@ -342,11 +358,11 @@ Mockup funcional e interactivo de una plataforma profesional de arbitraje deport
 - ✅ Dashboard estilo Bloomberg/Binance
 - ✅ Tema oscuro premium con glassmorphism
 
-[Ver detalles →](./21_mr_bet/readme.md)
+[Ver detalles →](./22_mr_bet/readme.md)
 
 ---
 
-### 22. [Afinador de Guitarra en Línea](./22_afinador_guitarra/) 🎸
+### 23. [Afinador de Guitarra en Línea](./23_afinador_guitarra/) 🎸
 
 Aplicación web para afinar guitarras en tiempo real usando el micrófono del dispositivo.
 
@@ -359,11 +375,11 @@ Aplicación web para afinar guitarras en tiempo real usando el micrófono del di
 - ✅ Compatible con todos los navegadores modernos
 - ✅ Sin instalación requerida
 
-[Ver detalles →](./22_afinador_guitarra/readme.md)
+[Ver detalles →](./23_afinador_guitarra/readme.md)
 
 ---
 
-### 23. [LogisTrack - Sistema de Gestión Logística](./23_logistrack/) 📦
+### 24. [LogisTrack - Sistema de Gestión Logística](./24_logistrack/) 📦
 
 Sistema web completo para automatización de documentación logística y gestión de envíos.
 
@@ -377,24 +393,22 @@ Sistema web completo para automatización de documentación logística y gestió
 - ✅ Comparador de transportistas
 - ✅ Documentación técnica completa (11 tablas, 14 sprints)
 
-[Ver detalles →](./23_logistrack/readme.md)
+[Ver detalles →](./24_logistrack/readme.md)
 
 ---
 
-### 24. [ChronoFolio - Portafolio Retro 16-Bits](./24_chrono_folio/) 🕹️
+### 25. [Mortino Producciones](./25_mortino_producciones/) 🎬
 
-Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como RPG.
+Plataforma de productora audiovisual y contenidos creativos.
 
-- **Stack:** HTML5, CSS3, JavaScript vanilla, Canvas API, Web Audio API
-- ✅ Interfaz retro 16-bits estilo arcade clásico
-- ✅ Experiencia gamificada con sistema de batalla RPG
-- ✅ Starfield animado con Canvas
-- ✅ Audio retro 16-bits con Web Audio API
-- ✅ Sistema de diálogos interactivo
-- ✅ Estados de juego: Splash, Press Start, Battle
-- ✅ Diseño responsivo y animaciones suaves
+- **Stack:** HTML5, CSS3, JavaScript
+- ⏸️ **Pausado** - Proyecto en pausa por restricciones presupuestarias
+- ✅ Galería de proyectos multimedia
+- ✅ Showcases de videos/fotos
+- ✅ Catálogo de servicios
+- ✅ Blog integrado
 
-[Ver detalles →](./24_chrono_folio/readme.md)
+[Ver detalles →](./25_mortino_producciones/readme.md)
 
 ---
 
@@ -440,15 +454,16 @@ Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como
 
 | Área                 | Proyectos                                                    | Expertise                                        |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| **E-commerce**       | The Nana Store, Imprendi Soap, Menu Medianoche               | Multi-pasarelas, localización, inventario        |
-| **SaaS**             | Agendador Citas, ServiceFlow, EdTech, PharmaCare, LogisTrack | Full-stack, escalabilidad, seguridad             |
+| **E-commerce**       | ECommerce MultiPaís, Imprendi Soap, Menu Medianoche          | Multi-pasarelas, localización, inventario        |
+| **SaaS**             | Agendador Citas, Flow, ServiceFlow, EdTech, PharmaCare, LogisTrack | Full-stack, escalabilidad, seguridad             |
 | **Blockchain**       | EchoDAO                                                      | Smart Contracts, Tokenomics, DAO                 |
 | **Fintech**          | CrediConfia, PocketCheck                                     | Cálculos precisos, seguridad, compliance         |
 | **Healthcare**       | PharmaCare ERP                                               | ERP systems, inventory management, compliance    |
-| **Gaming**           | BLOODLINE, Tetris, ChronoFolio                               | Game loops, physics, canvas rendering, state management |
+| **Gaming**           | ChronoFolio, Bloodline, Tetris, Rhythm Drift                 | Game loops, physics, canvas rendering, state management |
 | **Mobile**           | DrTarot, PocketCheck (React Native)                          | iOS/Android, sincronización                      |
 | **Audio/Multimedia** | Afinador Guitarra                                            | Web Audio API, FFT, procesamiento en tiempo real |
 | **Design & UX**      | Todos                                                        | Responsivo, accesibilidad, paletas coherentes    |
+
 ---
 
 ## 📞 Contacto
@@ -459,5 +474,5 @@ Portafolio interactivo con temática retro 16-bits estilo arcade gamificado como
 ---
 
 **Última actualización:** Diciembre 2025
-**Total Proyectos:** 24
+**Total Proyectos:** 25
 **Líneas de Código:** 100K+
