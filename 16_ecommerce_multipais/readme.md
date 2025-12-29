@@ -6,11 +6,11 @@ Una plataforma de e-commerce especializada en venta y recarga de divisas in-game
 
 ## 🎯 Descripción del Proyecto
 
-**The Nana Store** es una aplicación web completa que permite a usuarios comprar recargas de divisas para videojuegos populares (Game Pass, Gemas, etc.). La plataforma incluye:
+**ECommerce MultiPaís** es una aplicación web completa que permite a usuarios comprar recargas de divisas para videojuegos populares (Game Pass, Gemas, etc.). La plataforma incluye:
 
 - **Tienda Online:** Interfaz responsiva para compra de recargas
 - **Multi-región:** Soporte para 14+ países con precios localizados
-- **Panel Admin (Big Nana):** Gestión de inventario, pedidos y usuarios
+- **Panel Admin:** Gestión de inventario, pedidos y usuarios
 - **Checkout seguro** con múltiples pasarelas de pago
 
 ---
